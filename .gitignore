@@ -1,0 +1,5 @@
+pacote/
+*.bak
+*.old
+# Copiado do include do proprio servidor pelo instalador (arquivo do MK-AUTH, nao nosso).
+addons.class.php
